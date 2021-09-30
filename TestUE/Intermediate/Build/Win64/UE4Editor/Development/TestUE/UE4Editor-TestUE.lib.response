@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestUE.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\MARU\Documents\Unreal Projects\TestUE\Intermediate\Build\Win64\TestUEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\MARU\Documents\Unreal Projects\TestUE\Intermediate\Build\Win64\UE4Editor\Development\TestUE\TestUE.cpp.obj"
+"C:\Users\MARU\Documents\Unreal Projects\TestUE\Intermediate\Build\Win64\UE4Editor\Development\TestUE\TestUEGameModeBase.cpp.obj"
+"C:\Users\MARU\Documents\Unreal Projects\TestUE\Intermediate\Build\Win64\UE4Editor\Development\TestUE\TestUE.init.gen.cpp.obj"
+"C:\Users\MARU\Documents\Unreal Projects\TestUE\Intermediate\Build\Win64\UE4Editor\Development\TestUE\TestUEGameModeBase.gen.cpp.obj"
+"C:\Users\MARU\Documents\Unreal Projects\TestUE\Intermediate\Build\Win64\UE4Editor\Development\TestUE\Default.rc2.res"
+/OUT:"C:\Users\MARU\Documents\Unreal Projects\TestUE\Intermediate\Build\Win64\UE4Editor\Development\TestUE\UE4Editor-TestUE.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestUE",
+			"Path": "C:\\Users\\MARU\\Documents\\Unreal Projects\\TestUE\\Source\\TestUE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestUEEditor",
+			"Path": "C:\\Users\\MARU\\Documents\\Unreal Projects\\TestUE\\Source\\TestUEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
